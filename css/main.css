@@ -27,8 +27,8 @@ html{
 }
 #elementEl::after {
     content: '|';
-    margin-left: 5px;
-    animation: blink 0.7s infinite;
+    margin-left: 3px;
+    animation: blink 1s infinite;
     background-color: #384772;
     padding: 1px;
     border-radius: 3px;
@@ -127,7 +127,7 @@ html{
     color: #ffffff;
     transition: 0.5s;
     background-color: #26345a;
-    padding: 7px;
+    padding: 10px;
     border-radius: 8px;
     font-weight: bold;
 }
